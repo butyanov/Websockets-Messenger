@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KuOiYY7/opxsg6yqgPUAYG4bhH2D6eM+6hqngwzZvT5Fw10JImf5A2tgv+E629qVUZhNM1twHOnCEdXCoWs/7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\apdas\\RiderProjects\\WebSocketsMessenger\\WebSocketsConsoleClient\\WebSocketsConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apdas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\apdas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\apdas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\apdas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

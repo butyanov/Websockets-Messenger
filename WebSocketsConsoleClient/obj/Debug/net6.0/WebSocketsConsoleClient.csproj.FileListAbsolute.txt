@@ -1,0 +1,15 @@
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\bin\Debug\net6.0\WebSocketsConsoleClient.exe
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\bin\Debug\net6.0\WebSocketsConsoleClient.deps.json
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\bin\Debug\net6.0\WebSocketsConsoleClient.runtimeconfig.json
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\bin\Debug\net6.0\WebSocketsConsoleClient.dll
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\bin\Debug\net6.0\WebSocketsConsoleClient.pdb
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\obj\Debug\net6.0\WebSocketsConsoleClient.csproj.AssemblyReference.cache
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\obj\Debug\net6.0\WebSocketsConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\obj\Debug\net6.0\WebSocketsConsoleClient.AssemblyInfoInputs.cache
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\obj\Debug\net6.0\WebSocketsConsoleClient.AssemblyInfo.cs
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\obj\Debug\net6.0\WebSocketsConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\obj\Debug\net6.0\WebSocketsConsoleClient.dll
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\obj\Debug\net6.0\refint\WebSocketsConsoleClient.dll
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\obj\Debug\net6.0\WebSocketsConsoleClient.pdb
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\obj\Debug\net6.0\WebSocketsConsoleClient.genruntimeconfig.cache
+C:\Users\apdas\RiderProjects\WebSockets\WebSocketsConsoleClient\obj\Debug\net6.0\ref\WebSocketsConsoleClient.dll

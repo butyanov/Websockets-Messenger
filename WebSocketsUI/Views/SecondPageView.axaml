@@ -1,0 +1,36 @@
+<UserControl x:Class="WebSocketsUI.Views.SecondPageView"
+             xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="using:WebSocketsUI.ViewModels"
+             d:DesignHeight="450"
+             d:DesignWidth="800"
+             x:CompileBindings="True"
+             x:DataType="vm:SecondPageViewModel"
+             mc:Ignorable="d">
+    <Design.DataContext>
+        <vm:SecondPageViewModel />
+    </Design.DataContext>
+
+    <StackPanel VerticalAlignment="Center" Spacing="5" MaxWidth="350">
+        <TextBlock VerticalAlignment="Center"
+                   FontSize="16"
+                   FontWeight="SemiBold"
+                   Text="Enter your Credentials"
+                   TextAlignment="Center"
+                   TextWrapping="Wrap" />
+        <TextBox VerticalAlignment="Center"
+                 FontSize="16"
+                 Text="{Binding Username}"
+                 Watermark="Username"
+                 UseFloatingWatermark="True"
+                 Background="{DynamicResource AccentBrush}"
+                 BorderBrush="{DynamicResource AccentBrush}"
+                 BorderThickness="2"
+                 FontFamily="Segoe UI"
+                 FontWeight="SemiBold"
+                 Padding="10"
+                 CornerRadius="5" />
+    </StackPanel>
+</UserControl>
